@@ -16,6 +16,6 @@ task2 - tsitaadid ja autorid lehelt quotes.toscrape.com.
 task3 - vajutab Add Element 5 korda ja kustutab kõik.
 task4 - logib testlehele sisse.
 task5 - märgib kastid ja läheb tagasi.
-task6 - 
+task6 - käivitab järjest viis iseseisvat Seleniumi automaattesti, mis kontrollivad eri veebilehtede funktsionaalsust
 
 Testimisplaan: testimisplaan.md
